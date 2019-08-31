@@ -1,0 +1,19 @@
+{
+  "name": "wcrypt",
+  "version": "0.0.1",
+  "description": "Encrypt and decrypt strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "node",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Vidar <vidar@eldoy.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
