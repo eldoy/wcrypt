@@ -1,6 +1,6 @@
 {
   "name": "wcrypt",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Encrypt and decrypt strings",
   "main": "index.js",
   "scripts": {
